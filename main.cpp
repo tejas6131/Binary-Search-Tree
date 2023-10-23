@@ -129,5 +129,3 @@ int main()
     else cout<<"The element is absent"<<endl;
     }
 }
-
-//Author -- Tejas Mali
